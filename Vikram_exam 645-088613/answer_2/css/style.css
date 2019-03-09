@@ -1,0 +1,15 @@
+<
+.flex-container {
+  display: flex;
+  flex-wrap: row-wrap; 
+  align-items: : top;
+}
+
+.flex-container > div {
+  background-color: red;
+  width: 900px;
+  margin: 10px;
+  text-align: center;
+  line-height: 250px;
+  font-size: 30px;
+}
